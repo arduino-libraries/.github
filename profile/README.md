@@ -4,7 +4,7 @@ This organization hosts the official libraries maintained or supervised by the A
 
 If you're looking for other Arduino repositories such as [IDE](https://github.com/arduino/arduino-ide), [CLI](https://github.com/arduino/arduino-cli), the [Arduino API spec](https://github.com/arduino/ArduinoCore-API) or the various cores see the [github.com/arduino](https://github.com/arduino) organization instead.
 
-Maintaining these libraries and handling community contributions is a hard job. Please support us by [buying original Arduino products](https://store.arduino.cc/) or by [donating](https://www.arduino.cc/en/donate/), or even better by joining us in the maintenance of these repositories. Your help will be very appreciated.
+Maintaining these libraries and handling community contributions is a hard job. Please support us by [buying original Arduino products](https://store.arduino.cc/) or by [donating](https://www.arduino.cc/en/donate/). Your help will be very appreciated.
 
 ### ✨ How you can contribute
 
@@ -15,7 +15,7 @@ Maintaining these libraries and handling community contributions is a hard job. 
 * **Write more examples** to demonstrate how to use the various features.
 * **Write documentation** about library usage and API. It should be placed under the `docs/` directory in each repository and written in Markdown.
 
-We value contributions and we provide the most active and constant contributors with public recognition, maintainer status and hardware goodies.
+We value contributions and we provide the most active and constant contributors with public recognition and hardware goodies.
 
 ### 🔒 Security
 
